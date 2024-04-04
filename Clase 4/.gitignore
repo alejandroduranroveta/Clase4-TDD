@@ -1,0 +1,42 @@
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos de usuario de Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de configuración de Visual Studio
+.vs/
+
+# Carpetas de paquetes
+packages/
+
+# Archivos de Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Archivos de TeamCity
+_TeamCity*
+
+# Carpetas de compilación
+[Bb]in/
+[Oo]bj/
+
+# Archivos de Microsoft DNX
+artifacts/
+
+# Archivos de Visual Studio Code
+.vscode/
+
+# Carpetas de compilación de Pub
+**/node_modules/
+
+# Archivos de Azure DevOps
+.azure/
+
+# Archivos de Rider
+.idea/
+*.DotSettings.user
